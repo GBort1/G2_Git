@@ -7,7 +7,7 @@ namespace Home_Task5_University
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Change in Test branch");
+            Console.WriteLine("Change in Test branch1");
             Console.WriteLine("Change in Master branch");
             Lecturer lecturer1 = new Lecturer("Jack", "White", "Maths");
             Console.WriteLine(12);
