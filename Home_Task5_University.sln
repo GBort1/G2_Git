@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Home_Task5_University", "Home_Task5_University\Home_Task5_University.csproj", "{A6445D9F-401F-4182-991C-A966A616168B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDriver", "WebDriver\WebDriver.csproj", "{C9753714-EBA7-4E5E-B93F-A37A39AADE40}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A6445D9F-401F-4182-991C-A966A616168B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6445D9F-401F-4182-991C-A966A616168B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6445D9F-401F-4182-991C-A966A616168B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9753714-EBA7-4E5E-B93F-A37A39AADE40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9753714-EBA7-4E5E-B93F-A37A39AADE40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9753714-EBA7-4E5E-B93F-A37A39AADE40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9753714-EBA7-4E5E-B93F-A37A39AADE40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
